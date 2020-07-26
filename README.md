@@ -6,4 +6,4 @@ Based off the final task in the 'Object-Oriented programming with Java' MOOC fro
 
 <br>
 
-![](https://github.com/AnonymousVegetable/Snake/blob/master/example.png "Example Screenshot")
+![](example.png "Example Screenshot")
